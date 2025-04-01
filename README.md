@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://srivanij23.github.io/ProfileImg/Sj-github-header.png" alt="Header">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
