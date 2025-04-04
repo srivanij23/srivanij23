@@ -3,6 +3,7 @@
 </p>
 
 # 💫 About Me:
+<h2 align="left">Hi 👋! My name is J Srivani</h2>
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
